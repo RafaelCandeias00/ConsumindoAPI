@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "5VV2FlGMHNoVa+yzSHSfVCFT+gjYV2t7ruNhlEvEaBqJ//luH1LL9uh4nIbpkwi3JWSbAEhx7Iut38Z34zY/xg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rafael Candeias\\Desktop\\ConsumindoApiRest-Refit\\ConsumindoApiRest-Refit\\ConsumindoApiRest-Refit.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rafael Candeias\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Rafael Candeias\\.nuget\\packages\\refit\\5.2.4\\refit.5.2.4.nupkg.sha512",
+    "C:\\Users\\Rafael Candeias\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}
